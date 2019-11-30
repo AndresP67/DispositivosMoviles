@@ -1,10 +1,4 @@
 package com.mygdx.Helados;
-//Ejemplo aplicación Android en el que utilizaremos el framework libGDX para
-//el desarrollo de videojuegos.
-//
-//academiaandroid.com
-//
-//by José Antonio Gázquez Rodríguez
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Gdx;
